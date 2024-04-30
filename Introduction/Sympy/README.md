@@ -1,1 +1,1 @@
- ![plot](./CheatsheetSympy.jpg)
+ ![plot](./imgs/CheatsheetSympy.jpg)
