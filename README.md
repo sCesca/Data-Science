@@ -1,2 +1,2 @@
 # Data-Science
-  ![plot](./UML%20Diagram.jpg)
+  ![plot](./365_DataScience.jpg)
