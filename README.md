@@ -1,2 +1,2 @@
 # Data-Science
-  ![plot](./365_DataScience.jpg)
+  ![plot](./365_DataScience.png)
